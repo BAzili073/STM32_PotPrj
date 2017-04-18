@@ -1,5 +1,6 @@
-#include "stm32l0xx_hal.h"
-#include "stm32l051xx.h"
+#include "defines.h"
+#include INCLUDED_FILE_1
+#include INCLUDED_FILE_2
 
 
 int main(void)

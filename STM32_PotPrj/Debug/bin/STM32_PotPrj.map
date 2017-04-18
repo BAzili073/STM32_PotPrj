@@ -266,18 +266,6 @@ Discarded input sections
  .debug_frame   0x00000000      0x6b0 ..\obj\stm32l0xx_hal_i2c.o
  .ARM.attributes
                 0x00000000       0x32 ..\obj\stm32l0xx_hal_i2c.o
- .text          0x00000000        0x0 ..\obj\stm32l0xx_hal_pcd.o
- .data          0x00000000        0x0 ..\obj\stm32l0xx_hal_pcd.o
- .bss           0x00000000        0x0 ..\obj\stm32l0xx_hal_pcd.o
- .debug_info    0x00000000       0x67 ..\obj\stm32l0xx_hal_pcd.o
- .debug_abbrev  0x00000000       0x24 ..\obj\stm32l0xx_hal_pcd.o
- .debug_aranges
-                0x00000000       0x18 ..\obj\stm32l0xx_hal_pcd.o
- .debug_line    0x00000000       0x1d ..\obj\stm32l0xx_hal_pcd.o
- .debug_str     0x00000000      0x16d ..\obj\stm32l0xx_hal_pcd.o
- .comment       0x00000000       0x6f ..\obj\stm32l0xx_hal_pcd.o
- .ARM.attributes
-                0x00000000       0x32 ..\obj\stm32l0xx_hal_pcd.o
  .text          0x00000000      0xe10 ..\obj\stm32l0xx_hal_dma.o
  .data          0x00000000        0x0 ..\obj\stm32l0xx_hal_dma.o
  .bss           0x00000000        0x0 ..\obj\stm32l0xx_hal_dma.o
@@ -291,6 +279,18 @@ Discarded input sections
  .debug_frame   0x00000000      0x150 ..\obj\stm32l0xx_hal_dma.o
  .ARM.attributes
                 0x00000000       0x32 ..\obj\stm32l0xx_hal_dma.o
+ .text          0x00000000        0x0 ..\obj\stm32l0xx_hal_pcd.o
+ .data          0x00000000        0x0 ..\obj\stm32l0xx_hal_pcd.o
+ .bss           0x00000000        0x0 ..\obj\stm32l0xx_hal_pcd.o
+ .debug_info    0x00000000       0x67 ..\obj\stm32l0xx_hal_pcd.o
+ .debug_abbrev  0x00000000       0x24 ..\obj\stm32l0xx_hal_pcd.o
+ .debug_aranges
+                0x00000000       0x18 ..\obj\stm32l0xx_hal_pcd.o
+ .debug_line    0x00000000       0x1d ..\obj\stm32l0xx_hal_pcd.o
+ .debug_str     0x00000000      0x16d ..\obj\stm32l0xx_hal_pcd.o
+ .comment       0x00000000       0x6f ..\obj\stm32l0xx_hal_pcd.o
+ .ARM.attributes
+                0x00000000       0x32 ..\obj\stm32l0xx_hal_pcd.o
  .text          0x00000000        0x0 ..\obj\stm32l0xx_hal_cryp_ex.o
  .data          0x00000000        0x0 ..\obj\stm32l0xx_hal_cryp_ex.o
  .bss           0x00000000        0x0 ..\obj\stm32l0xx_hal_cryp_ex.o
@@ -422,6 +422,18 @@ Discarded input sections
  .comment       0x00000000       0x6f ..\obj\stm32l0xx_hal_dac_ex.o
  .ARM.attributes
                 0x00000000       0x32 ..\obj\stm32l0xx_hal_dac_ex.o
+ .text          0x00000000        0x0 ..\obj\stm32l0xx_hal_lcd.o
+ .data          0x00000000        0x0 ..\obj\stm32l0xx_hal_lcd.o
+ .bss           0x00000000        0x0 ..\obj\stm32l0xx_hal_lcd.o
+ .debug_info    0x00000000       0x67 ..\obj\stm32l0xx_hal_lcd.o
+ .debug_abbrev  0x00000000       0x24 ..\obj\stm32l0xx_hal_lcd.o
+ .debug_aranges
+                0x00000000       0x18 ..\obj\stm32l0xx_hal_lcd.o
+ .debug_line    0x00000000       0x1d ..\obj\stm32l0xx_hal_lcd.o
+ .debug_str     0x00000000      0x16d ..\obj\stm32l0xx_hal_lcd.o
+ .comment       0x00000000       0x6f ..\obj\stm32l0xx_hal_lcd.o
+ .ARM.attributes
+                0x00000000       0x32 ..\obj\stm32l0xx_hal_lcd.o
  .text          0x00000000      0x280 ..\obj\stm32l0xx_hal_rcc_ex.o
  .data          0x00000000        0x0 ..\obj\stm32l0xx_hal_rcc_ex.o
  .bss           0x00000000        0x0 ..\obj\stm32l0xx_hal_rcc_ex.o
@@ -435,18 +447,6 @@ Discarded input sections
  .debug_frame   0x00000000       0x88 ..\obj\stm32l0xx_hal_rcc_ex.o
  .ARM.attributes
                 0x00000000       0x32 ..\obj\stm32l0xx_hal_rcc_ex.o
- .text          0x00000000        0x0 ..\obj\stm32l0xx_hal_lcd.o
- .data          0x00000000        0x0 ..\obj\stm32l0xx_hal_lcd.o
- .bss           0x00000000        0x0 ..\obj\stm32l0xx_hal_lcd.o
- .debug_info    0x00000000       0x67 ..\obj\stm32l0xx_hal_lcd.o
- .debug_abbrev  0x00000000       0x24 ..\obj\stm32l0xx_hal_lcd.o
- .debug_aranges
-                0x00000000       0x18 ..\obj\stm32l0xx_hal_lcd.o
- .debug_line    0x00000000       0x1d ..\obj\stm32l0xx_hal_lcd.o
- .debug_str     0x00000000      0x16d ..\obj\stm32l0xx_hal_lcd.o
- .comment       0x00000000       0x6f ..\obj\stm32l0xx_hal_lcd.o
- .ARM.attributes
-                0x00000000       0x32 ..\obj\stm32l0xx_hal_lcd.o
  .text          0x00000000     0x1768 ..\obj\stm32l0xx_hal_usart.o
  .data          0x00000000        0x0 ..\obj\stm32l0xx_hal_usart.o
  .bss           0x00000000        0x0 ..\obj\stm32l0xx_hal_usart.o
@@ -890,8 +890,8 @@ LOAD ..\obj\stm32l0xx_hal_irda.o
 LOAD ..\obj\stm32l0xx_hal_flash.o
 LOAD ..\obj\startup_stm32l051xx.o
 LOAD ..\obj\stm32l0xx_hal_i2c.o
-LOAD ..\obj\stm32l0xx_hal_pcd.o
 LOAD ..\obj\stm32l0xx_hal_dma.o
+LOAD ..\obj\stm32l0xx_hal_pcd.o
 LOAD ..\obj\stm32l0xx_hal_cryp_ex.o
 LOAD ..\obj\stm32l0xx_hal_iwdg.o
 LOAD ..\obj\stm32l0xx_hal_smartcard.o
@@ -902,8 +902,8 @@ LOAD ..\obj\stm32l0xx_hal_uart_ex.o
 LOAD ..\obj\stm32l0xx_hal_rcc.o
 LOAD ..\obj\stm32l0xx_hal_pcd_ex.o
 LOAD ..\obj\stm32l0xx_hal_dac_ex.o
-LOAD ..\obj\stm32l0xx_hal_rcc_ex.o
 LOAD ..\obj\stm32l0xx_hal_lcd.o
+LOAD ..\obj\stm32l0xx_hal_rcc_ex.o
 LOAD ..\obj\stm32l0xx_hal_usart.o
 LOAD ..\obj\stm32l0xx_hal_adc_ex.o
 LOAD ..\obj\stm32l0xx_hal_lptim.o

@@ -1,8 +1,6 @@
 #include "input.h"
-#include "guard_func.h"
 #include "ADC_func.h"
 #include "EEPROMfunc.h"
-#include "led.h"
 #include "my_string.h"
 
  uint8_t check_input_setting(int inp,int opt);
